@@ -19,3 +19,7 @@ The banner extends the existing HQ identity with rounded edges, a plum gradient,
 Outfit and Inter are licensed under the SIL Open Font License 1.1. The artwork uses outlined letterforms rather than distributing font files. Font project credits: [Outfit](https://github.com/Outfitio/Outfit-Fonts) and [Inter](https://github.com/rsms/inter).
 
 Project-specific marks and third-party creator attribution remain with their respective projects. TipsyPrompt credits SpicyRae.
+
+## Project Tracker panel
+
+`assets/project-tracker-source.svg` is the editable text source; `assets/project-tracker.svg` is the outlined display version. The artwork is a navigation panel, not an embedded application or a task snapshot. It contains only the board name, workflow labels, and an opening affordance. The README supplies its actual link and private-access label. Both organization profiles and the HQ, Lab, and Atelier landing READMEs reuse this public-safe file.

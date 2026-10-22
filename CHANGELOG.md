@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-21 — Shared Project Tracker panel
+
+- Added a Goddess Veiled tracker panel and accessible text link to the public overview.
+- Published one reusable, outlined SVG plus editable source for the member overview and HQ/Lab/Atelier READMEs.
+- Labels the board as private. The artwork shows its workflow, with no copied task contents, counts, or claims of an interactive embed.
+
 ## 2026-10-21 — Goddessverse organization profile
 
 - Added the branded overview with App Development, Research, and App Tools groups.
