@@ -23,3 +23,9 @@ python3 scripts/build_navigation.py \
 The script deterministically regenerates `assets/nav/*.svg`. Font files are not redistributed; letterforms are outlined. [Brand identity and font credits](BRAND.md).
 
 Before publishing, check that every contents fragment has one matching explicit anchor, every Top button targets `readme-top`, all SVG references exist, the preview blocks are unchanged, and the rendered navigation fits narrow screens.
+
+## Live verification — October 22, 2026
+
+The published organization overview in both Public and Member modes, plus the HQ, Lab and Atelier repository READMEs, passed live Chrome checks: all 35 contents links reached their sections and all 35 Top controls returned to the README start. The original Project Tracker and Glitter Brain fragments remained usable where present. Shared artwork loaded, header controls aligned, and contents wrapped at desktop width and 390 CSS pixels without page overflow; wide content tables kept their own scrolling. Narrow-screen section/Top round trips passed on all five surfaces.
+
+The Public overview remained link-only for the private board. No README or SVG changes were required by this verification. Narrow checks used Chrome DevTools, not a physical phone; other browsers are not covered by this acceptance result.

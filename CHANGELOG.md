@@ -4,7 +4,7 @@
 
 - Added a horizontal, wrapping contents bar and compact Top controls beside every section heading. Shared dark/plum SVG artwork uses gold, magenta, rounded corners and outlined Outfit lettering.
 - Published reusable navigation assets and a deterministic generator for the public/member profiles and HQ, Lab and Atelier landing pages. [Maintenance guide](docs/README-NAVIGATION.md).
-- GitHub’s Markdown renderer preserves all section targets and header controls. Existing content and links remain intact; browser visual/click-through verification is pending a local browser-tool configuration correction.
+- GitHub’s Markdown renderer preserves all section targets and header controls. The initial browser check was blocked by a local tool configuration issue; the later October 22 live Chrome pass verified all 35 contents links and 35 Top controls across the five landing pages, desktop/390px wrapping, and Public-mode navigation-only board content. No artwork or README correction was needed. [Live verification scope](docs/README-NAVIGATION.md#live-verification--october-22-2026).
 
 ## 2026-10-21 — Add Glitter Brain navigation
 
