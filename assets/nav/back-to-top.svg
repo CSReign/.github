@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="24" viewBox="0 0 53 24" role="img" aria-labelledby="title desc">
+<title id="title">Back to top</title><desc id="desc">Return to the top of this README.</desc>
+<defs>
+<linearGradient id="base" x2="1" y2="1"><stop stop-color="#29222f"/><stop offset=".62" stop-color="#17131e"/><stop offset="1" stop-color="#211520"/></linearGradient>
+<linearGradient id="edge" x2="1" y2="1"><stop stop-color="#d4af6a" stop-opacity=".32"/><stop offset=".5" stop-color="#fff" stop-opacity=".1"/><stop offset="1" stop-color="#ff2e88" stop-opacity=".35"/></linearGradient>
+<linearGradient id="sheen" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="3" width="51" height="20" rx="10" fill="#000" opacity=".22"/>
+<rect x="1" y="1" width="51" height="20" rx="10" fill="url(#base)" stroke="url(#edge)"/>
+<rect x="2" y="2" width="49" height="18" rx="9" fill="url(#sheen)"/>
+<path d="m10 13 4-4 4 4m-4-4v9" stroke="#d4af6a" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#d4af6a" aria-label="Top"><path d="M252 0V680H367V0ZM24 595V700H595V595Z" transform="translate(24.000 16) scale(0.0110000 -0.0110000)"/><path d="M281 -10Q211 -10 154.0 23.5Q97 57 63.5 114.0Q30 171 30 241Q30 311 63.5 367.0Q97 423 154.0 456.5Q211 490 281 490Q352 490 409.0 457.0Q466 424 499.5 367.5Q533 311 533 241Q533 171 499.5 114.0Q466 57 409.0 23.5Q352 -10 281 -10ZM281 96Q322 96 353.5 114.5Q385 133 402.5 166.0Q420 199 420 241Q420 283 402.0 315.0Q384 347 353.0 365.5Q322 384 281 384Q241 384 209.5 365.5Q178 347 160.5 315.0Q143 283 143 241Q143 199 160.5 166.0Q178 133 209.5 114.5Q241 96 281 96Z" transform="translate(30.809 16) scale(0.0110000 -0.0110000)"/><path d="M318 -10Q263 -10 220.0 13.5Q177 37 152.5 78.0Q128 119 128 171V309Q128 361 153.0 402.0Q178 443 221.0 466.5Q264 490 318 490Q383 490 435.5 456.5Q488 423 518.5 366.5Q549 310 549 239Q549 169 518.5 112.5Q488 56 435.5 23.0Q383 -10 318 -10ZM61 -200V480H171V351L152 234L171 118V-200ZM300 94Q340 94 370.5 112.5Q401 131 418.5 164.0Q436 197 436 240Q436 283 418.5 316.0Q401 349 370.5 367.5Q340 386 300 386Q260 386 229.0 367.5Q198 349 181.0 316.0Q164 283 164 240Q164 197 181.0 164.0Q198 131 229.0 112.5Q260 94 300 94Z" transform="translate(37.002 16) scale(0.0110000 -0.0110000)"/></g>
+</svg>

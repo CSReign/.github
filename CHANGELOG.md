@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-22 — Themed README contents navigation
+
+- Added a horizontal, wrapping contents bar and compact Top controls beside every section heading. Shared dark/plum SVG artwork uses gold, magenta, rounded corners and outlined Outfit lettering.
+- Published reusable navigation assets and a deterministic generator for the public/member profiles and HQ, Lab and Atelier landing pages. [Maintenance guide](docs/README-NAVIGATION.md).
+- GitHub’s Markdown renderer preserves all section targets and header controls. Existing content and links remain intact; browser visual/click-through verification is pending a local browser-tool configuration correction.
+
 ## 2026-10-21 — Add Glitter Brain navigation
 
 - Added a direct **✨ Glitter Brain** shortcut beside the Project Tracker link, matching the member/public overview and HQ, Lab, and Atelier READMEs.
