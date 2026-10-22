@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-21 — Add Glitter Brain navigation
+
+- Added a direct **✨ Glitter Brain** shortcut beside the Project Tracker link, matching the member/public overview and HQ, Lab, and Atelier READMEs.
+- Links the existing private project view at `/projects/1/views/3`; board visibility, tasks and generated preview blocks are unchanged.
+
 ## 2026-10-21 — Shared Project Tracker panel
 
 - Added a Goddess Veiled tracker panel and accessible text link to the public overview.

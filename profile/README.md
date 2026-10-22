@@ -19,7 +19,7 @@
   <a href="https://github.com/orgs/Goddessverse/projects/1"><img src="https://raw.githubusercontent.com/Goddessverse/.github/main/assets/project-tracker.svg" width="480" alt="Goddessverse Project Tracker — Todo, In Progress, Done. Open the live board." /></a>
 </p>
 
-<p align="center"><a href="https://github.com/orgs/Goddessverse/projects/1"><strong>Open Goddessverse Project Tracker ↗</strong></a><br/><sub>Private board · Sign in with project access. Current tasks and status live on the board.</sub></p>
+<p align="center"><a href="https://github.com/orgs/Goddessverse/projects/1"><strong>Open Goddessverse Project Tracker ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/orgs/Goddessverse/projects/1/views/3"><strong>✨ Glitter Brain ↗</strong></a><br/><sub>Private board · Sign in with project access. Current tasks and status live on the board.</sub></p>
 
 ## App Development
 
