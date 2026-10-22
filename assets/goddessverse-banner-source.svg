@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Goddessverse — Goddess's Creative Home.</title><desc id="desc">A gold upturned crescent over a charcoal and plum gradient, with pink accents. App Development, Research, and App Tools.</desc>
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#221e28"/><stop offset=".48" stop-color="#15111b"/><stop offset="1" stop-color="#121016"/></linearGradient>
+ <radialGradient id="bloom"><stop stop-color="#ff2e88" stop-opacity=".2"/><stop offset="1" stop-color="#ff2e88" stop-opacity="0"/></radialGradient>
+ <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#d4af6a" stop-opacity=".48"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".07"/><stop offset="1" stop-color="#ff2e88" stop-opacity=".35"/></linearGradient>
+ <linearGradient id="sheen" x2="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".035"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+ <linearGradient id="gold"><stop stop-color="#f1d49d"/><stop offset="1" stop-color="#d4af6a"/></linearGradient>
+ <clipPath id="clip"><rect x="9" y="9" width="1182" height="338" rx="29"/></clipPath>
+</defs>
+<rect x="9" y="17" width="1182" height="338" rx="29" fill="#000" opacity=".2"/>
+<rect x="9" y="9" width="1182" height="338" rx="29" fill="url(#base)" stroke="url(#edge)"/>
+<g clip-path="url(#clip)">
+ <ellipse cx="1050" cy="275" rx="370" ry="280" fill="url(#bloom)"/>
+ <path d="M9 9H1191V85C800 23 520 118 9 186Z" fill="url(#sheen)"/>
+ <circle cx="1000" cy="155" r="103" fill="none" stroke="#d4af6a" stroke-opacity=".13"/>
+ <circle cx="1000" cy="155" r="131" fill="none" stroke="#d4af6a" stroke-opacity=".05"/>
+ <path d="M852 255 904 187 1000 155 1095 101 1158 136" fill="none" stroke="#d4af6a" stroke-opacity=".2"/>
+ <circle cx="904" cy="187" r="3" fill="#d4af6a" opacity=".7"/><circle cx="1095" cy="101" r="3" fill="#d4af6a" opacity=".7"/><circle cx="1158" cy="136" r="2" fill="#d4af6a" opacity=".5"/>
+ <g transform="translate(936 105) scale(4)"><path d="M5 11a11 11 0 0 0 22 0 11 8 0 0 1-22 0Z" fill="url(#gold)"/></g>
+ <path d="M1000 80v12m-6-6h12" stroke="#d4af6a" stroke-width="1.5" stroke-linecap="round"/>
+ <circle cx="1000" cy="276" r="2" fill="#ff2e88"/>
+</g>
+<rect x="60" y="48" width="30" height="3" rx="1.5" fill="#ff2e88"/>
+<text x="60" y="144" font-family="Outfit" font-size="76" font-weight="550" letter-spacing="-2" fill="#f2eff5">Goddessverse</text>
+<text x="63" y="190" font-family="Inter" font-size="25" font-weight="400" fill="#d4af6a">Goddess's Creative Home.</text>
+<path d="M62 239H764" stroke="#ffffff" stroke-opacity=".09"/>
+<text x="63" y="283" font-family="Inter" font-size="15" font-weight="500" letter-spacing="1.6" fill="#c0b8cc">APP DEVELOPMENT</text>
+<circle cx="272" cy="278" r="2" fill="#ff2e88"/>
+<text x="296" y="283" font-family="Inter" font-size="15" font-weight="500" letter-spacing="1.6" fill="#c0b8cc">RESEARCH</text>
+<circle cx="425" cy="278" r="2" fill="#ff2e88"/>
+<text x="449" y="283" font-family="Inter" font-size="15" font-weight="500" letter-spacing="1.6" fill="#c0b8cc">APP TOOLS</text>
+</svg>
