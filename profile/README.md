@@ -43,33 +43,16 @@ Independent projects, from first concepts to working tools.
 
 | Project | What is taking shape |
 | :--- | :--- |
-| **Divineverse** | AI Roleplay Engine & Studio · *Dare to create.* Identity and naming established; product development is ahead. |
-| **Media Studio** | Local tools for image and audio creation. |
-| **Sona** | A local AI workspace. |
-| **Aethera** | A collaborative fiction application. |
-| **Aurorian** | A local roleplay studio prototype. |
-| **Aetheriis** | A visual product-design prototype. |
-| **The Foundry** | An independent experiment in visual design and theme building. |
+| **App** | AI Roleplay Engine & Studio |
+| **Research** | Local tools for image and audio. |
+| **Research** | A local AI workspace. |
+| **App** | A fiction application. |
+| **Research** | A roleplay studio prototype. |
+| **Research** | A product-design prototype. |
+| **Research** | thTeme building. |
 
 <a id="research"></a>
 
-## Research &nbsp; <a href="#readme-top" title="Back to top"><img src="https://raw.githubusercontent.com/Goddessverse/.github/main/assets/nav/back-to-top.svg" width="53" height="24" alt="Back to top" /></a>
-
-The questions, formats, and evidence behind the experiments.
-
-- **Roleplay Deepsearch** — reusable roleplay builders, platform research, and tested findings.
-- **Verse Format** — an evolving concept for organizing roleplay worlds and their components.
-- **Tavo** — platform exploration and research notes.
-
-<a id="app-tools"></a>
-
-## App Tools &nbsp; <a href="#readme-top" title="Back to top"><img src="https://raw.githubusercontent.com/Goddessverse/.github/main/assets/nav/back-to-top.svg" width="53" height="24" alt="Back to top" /></a>
-
-Tools for creating, organizing, and working across platforms.
-
-- **Obsidian Plugin 01** — connected experiments in AI, toolbars, and themes; Chat Lab AI is the AI component.
-- **Narra** — browser companion tooling for JanitorAI and Tipsy.
-- **[TipsyPrompt (SpicyRae)](https://goddessverse.github.io/tipsyprompt/prompt-builder/)** — the prompt builder and Rae's Library, with Goddess Edition development.
 
 ---
 
