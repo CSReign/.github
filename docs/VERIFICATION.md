@@ -1,23 +1,7 @@
-# Public profile verification
+# Public overview verification
 
-## October 24, 2026 — Under construction
+The current organization overview and repository landing README contain only C.S. Reign, Under construction, and More to come. They include no images, project descriptions, project/site links, or board navigation.
 
-The current organization overview and repository landing README contain only the C.S. Reign name, an under-construction label and “More to come.” They include no images, project descriptions, project/site links or board navigation.
+## October 24, 2026
 
-All existing artwork and its generation sources remain intact at the same paths. A verified local snapshot preserves the preceding presentation for the intended future artwork move. The checks below describe the earlier design, not the current page.
-
-Publication and anonymous renderer checks for this change are recorded privately; no private project details or local backup paths are added here.
-
-## October 21, 2026 — Historical profile verification
-
-- The public organization overview renders the Goddess Veiled banner, project groups, and working Tipsy links.
-- Desktop and 390 px mobile checks found no horizontal document overflow. GitHub retains control of its own surrounding interface and theme.
-- The banner loads as a static image. SVG files parse successfully and contain no scripts or foreignObject content; lettering is outlined for consistent rendering.
-- The Tipsy editor and library both returned HTTP 200.
-- Anonymous access to the organization page returned HTTP 200 and showed the public overview. No private source-repository links were present in the final page check.
-- GitHub accepted the crescent avatar upload; after the cache refreshed, the updated crescent was observed in both organization settings and the live overview.
-- The organization display name and description were updated. The public publication repository was saved as a pin and verified through GitHub's API.
-- An older source URL in the archived Tipsy repository description was replaced with the verified public site. Its archived and public states were restored and verified; its source files were not changed.
-- Repository visibility for existing projects was not changed.
-
-This is a Markdown/artwork profile update; there is no application build or runtime to deploy. Verification consists of source checks, current link checks, and the live GitHub renderer.
+Retired legacy presentation artwork and maintenance files from this public repository after verifying their preserved new home and updating all current image consumers. The public overview is unchanged. Historical source and presentation records remain available in Git history. Private migration evidence is retained with its owner.
