@@ -1,4 +1,14 @@
-# Profile verification — 2026-10-21
+# Public profile verification
+
+## October 24, 2026 — Under construction
+
+The current organization overview and repository landing README contain only the C.S. Reign name, an under-construction label and “More to come.” They include no images, project descriptions, project/site links or board navigation.
+
+All existing artwork and its generation sources remain intact at the same paths. A verified local snapshot preserves the preceding presentation for the intended future artwork move. The checks below describe the earlier design, not the current page.
+
+Publication and anonymous renderer checks for this change are recorded privately; no private project details or local backup paths are added here.
+
+## October 21, 2026 — Historical profile verification
 
 - The public organization overview renders the Goddess Veiled banner, project groups, and working Tipsy links.
 - Desktop and 390 px mobile checks found no horizontal document overflow. GitHub retains control of its own surrounding interface and theme.

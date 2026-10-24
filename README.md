@@ -1,13 +1,5 @@
-# Goddessverse organization profile
+<h1 align="center">C.S. Reign</h1>
 
-Public presentation for [Goddessverse](https://github.com/Goddessverse).
+<p align="center"><strong>Under construction</strong></p>
 
-- `profile/README.md` is the public organization overview.
-- `assets/` holds the banner, crescent avatar, and navigation artwork.
-- `docs/BRAND.md` records the palette, typography, and asset provenance.
-- `CHANGELOG.md` records presentation changes.
-- [Verification](docs/VERIFICATION.md) records the live publication checks.
-
-Edit this repository to change the public profile. Keep credentials, private documents, unpublished draft links, and local machine paths out of it. Project labels describe their current scope; do not turn concepts into implementation claims.
-
-The owner maintains a separate member overview. Public profile changes do not change the visibility of any existing project repository.
+<p align="center">More to come.</p>

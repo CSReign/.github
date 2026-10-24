@@ -1,6 +1,8 @@
 # README navigation
 
-The public organization profile, member profile, HQ, Lab, and Atelier landing READMEs share a compact horizontal contents bar and a **Top** button beside each H2/H3 heading. Individual linked SVG pills wrap naturally instead of putting the page inside a wide table. GitHub controls the page layout; the artwork supplies Goddess Veiled colors, rounded corners, a soft sheen and shadow, and outlined Outfit lettering.
+The member profile and existing workspace landing READMEs share a compact horizontal contents bar and a **Top** button beside each H2/H3 heading. Individual linked SVG pills wrap naturally instead of putting the page inside a wide table. GitHub controls the page layout; the artwork supplies Goddess Veiled colors, rounded corners, a soft sheen and shadow, and outlined Outfit lettering.
+
+The public CSReign organization overview is a minimal under-construction page as of October 24, 2026 and does not use these controls. This guide and the shared assets remain for existing consumers; do not restore the retired public navigation automatically.
 
 ## Maintain the headings and links
 

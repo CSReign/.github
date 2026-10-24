@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-24 — Public under-construction page
+
+- Replaced the organization overview and repository landing README with a minimal C.S. Reign under-construction page.
+- Removed the project descriptions and project/site/board navigation from both current landing pages.
+- Preserved existing artwork, editable sources, provenance and shared image URLs for their future home.
+- Earlier presentation entries below are historical and do not describe the current overview.
+
 ## 2026-10-22 — Themed README contents navigation
 
 - Added a horizontal, wrapping contents bar and compact Top controls beside every section heading. Shared dark/plum SVG artwork uses gold, magenta, rounded corners and outlined Outfit lettering.
